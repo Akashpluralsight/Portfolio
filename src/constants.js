@@ -3,7 +3,7 @@ export const scaleFactor = 4;
 export const dialogueData = {
   pc: `This is my workstation. I primarily work in JavaScript, TypeScript, and Python, building scalable full-stack applications. I've also explored functional programming with F#. Check out my <a href="https://github.com/darkwingpatil" target="_blank">GitHub</a> to see my work!`,
   
-  "cs-degree": `This is where I keep my certifications. I'm certified in AWS (Cloud Practitioner and Developer Associate), and I've completed a PG Certification in AI/ML from IIIT Hyderabad.`,
+  "cs-degree": `Done a Post Graduation certification in AI/ML from IIIT Hyderabad. Also have AWS certifications as Cloud Practitioner and Developer Associate. `,
 
   "sofa-table": `Here's where I relax and brainstorm new project ideas. I recently built an AI-powered learning assistant called PS Buddy using LangChain, OpenAI, and TypeScript!`,
 
