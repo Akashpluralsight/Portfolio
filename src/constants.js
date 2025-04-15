@@ -7,7 +7,7 @@ export const dialogueData = {
 
   "sofa-table": `Here's where I relax and brainstorm new project ideas. I recently built an AI-powered learning assistant called PS Buddy using LangChain, OpenAI, and TypeScript!`,
 
-  tv: `Sometimes I catch up on tech videos or conference talks. I stay inspired by following the latest in DevOps, cloud-native architecture, and JavaScript ecosystems.`,
+  tv: `Sometimes I catch up on tech videos or conference talks. I stay inspired by following the latest in AI/ML, cloud-native architecture, and JavaScript ecosystems.`,
 
   bed: `This is where I unplug, though some of my best ideas hit me just before sleep — like automating Slack alerting via FastAPI and Cron at Pluralsight.`,
 
